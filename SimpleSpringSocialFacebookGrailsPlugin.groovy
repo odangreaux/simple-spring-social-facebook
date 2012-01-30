@@ -42,9 +42,10 @@ Brief summary/description of the plugin.
 		// TODO Implement additions to web.xml (optional), this event occurs before
 	}
 
+
 	def doWithSpring = {
 		xmlns context: "http://www.springframework.org/schema/context"
-		context.'component-scan'('base-package': "org.o14x.simplespringsocial.facebook.config")
+		context.'component-scan'('base-package': "grails.plugin.simplespringsocial.facebook.config")
 	}
 
 	def doWithDynamicMethods = { ctx ->
