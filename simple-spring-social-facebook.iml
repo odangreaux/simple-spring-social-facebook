@@ -56,6 +56,8 @@
           <root url="jar://$USER_HOME$/.grails/ivy-cache/org.codehaus.jackson/jackson-core-asl/jars/jackson-core-asl-1.9.2.jar!/" />
           <root url="jar://$USER_HOME$/.grails/ivy-cache/org.codehaus.jackson/jackson-mapper-asl/jars/jackson-mapper-asl-1.9.2.jar!/" />
           <root url="jar://$USER_HOME$/.grails/ivy-cache/org.springframework.social/spring-social-facebook/jars/spring-social-facebook-1.0.1.RELEASE.jar!/" />
+          <root url="jar://$USER_HOME$/.grails/ivy-cache/org.springframework.security/spring-security-crypto/jars/spring-security-crypto-3.1.0.RELEASE.jar!/" />
+          <root url="jar://$USER_HOME$/.grails/ivy-cache/org.springframework.social/spring-social-twitter/jars/spring-social-twitter-1.0.1.RELEASE.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
